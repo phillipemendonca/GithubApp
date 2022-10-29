@@ -1,11 +1,11 @@
 {
-  "main.js": "/GithubApp2/static/js/main.df71013d.chunk.js",
-  "main.js.map": "/GithubApp2/static/js/main.df71013d.chunk.js.map",
-  "static/js/1.8a2fd309.chunk.js": "/GithubApp2/static/js/1.8a2fd309.chunk.js",
-  "static/js/1.8a2fd309.chunk.js.map": "/GithubApp2/static/js/1.8a2fd309.chunk.js.map",
-  "runtime~main.js": "/GithubApp2/static/js/runtime~main.aa582ce7.js",
-  "runtime~main.js.map": "/GithubApp2/static/js/runtime~main.aa582ce7.js.map",
-  "index.html": "/GithubApp2/index.html",
-  "precache-manifest.2926a66deff31d0cbfafb027fe06423e.js": "/GithubApp2/precache-manifest.2926a66deff31d0cbfafb027fe06423e.js",
-  "service-worker.js": "/GithubApp2/service-worker.js"
+  "main.js": "/GithubApp/static/js/main.df71013d.chunk.js",
+  "main.js.map": "/GithubApp/static/js/main.df71013d.chunk.js.map",
+  "static/js/1.567941ea.chunk.js": "/GithubApp/static/js/1.567941ea.chunk.js",
+  "static/js/1.567941ea.chunk.js.map": "/GithubApp/static/js/1.567941ea.chunk.js.map",
+  "runtime~main.js": "/GithubApp/static/js/runtime~main.fe49bfef.js",
+  "runtime~main.js.map": "/GithubApp/static/js/runtime~main.fe49bfef.js.map",
+  "index.html": "/GithubApp/index.html",
+  "precache-manifest.7bcff0da47d98ad4d51544bfb2cee932.js": "/GithubApp/precache-manifest.7bcff0da47d98ad4d51544bfb2cee932.js",
+  "service-worker.js": "/GithubApp/service-worker.js"
 }
